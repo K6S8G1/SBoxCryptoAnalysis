@@ -1,0 +1,13 @@
+Analiza S-boxa
+------------------
+F1: Zbalansowana, Nieliniowość: 112, Średnie SAC: 0.48
+F2: Zbalansowana, Nieliniowość: 112, Średnie SAC: 0.50
+F3: Zbalansowana, Nieliniowość: 110, Średnie SAC: 0.50
+F4: Zbalansowana, Nieliniowość: 110, Średnie SAC: 0.50
+F5: Zbalansowana, Nieliniowość: 110, Średnie SAC: 0.49
+F6: Zbalansowana, Nieliniowość: 112, Średnie SAC: 0.52
+F7: Zbalansowana, Nieliniowość: 110, Średnie SAC: 0.50
+F8: Zbalansowana, Nieliniowość: 110, Średnie SAC: 0.52
+
+Wygenerowano 512 funkcji liniowych dla 8-bitowych wejść.
+Test SAC został przeprowadzony dla każdej funkcji.
