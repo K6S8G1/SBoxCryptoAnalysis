@@ -13,8 +13,8 @@ Projekt pozwala ocenić jakość S-boxa na podstawie jego właściwości logiczn
 
 SBoxCryptoAnalysis  
 ├── Sbox.py – analiza funkcji boolowskich (balans, nieliniowość, SAC)  
-├── xor_profile.py – generowanie profilu XOR S-boxa
-├── sbox_analysis.txt – analiza przykładowego S-boxa
+├── xor_profile.py – generowanie profilu XOR S-boxa  
+├── sbox_analysis.txt – analiza przykładowego S-boxa  
 └── README.md
 
 ## 🚀 Uruchomienie
